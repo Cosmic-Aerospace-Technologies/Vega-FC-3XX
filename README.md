@@ -64,3 +64,4 @@ Using the Cosmic Tower (available on the Microsoft store), the user may change v
 | **Weight (Without Antenna)**     | 57 grams            |
 
 ---
+*"Note that this Repository is new and is still under development. Please be patient as more information is soon to come!" - Cosmic Aerospace Technologies*
