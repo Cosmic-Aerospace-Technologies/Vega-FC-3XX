@@ -1,4 +1,4 @@
-# 🛰️ Vega - Model Rocket Flight Computer 🚀  
+# 🛰️ Vega 300 Series  
 
 ### **A modern, feature-rich flight computer for model rocketry.**  
 
